@@ -6,4 +6,4 @@ jobs:
   test:
     uses: catalyst/catalyst-moodle-workflows/.github/workflows/group-39-plus-ci.yml@main
     with:
-      disable_behat: true
+      disable_behat: false
